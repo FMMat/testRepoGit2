@@ -25,4 +25,4 @@ You can add options to executable code like this
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
-### Je fais un autre test avec GitHub...
+### Je fais un autre test avec GitHub... Et, là, je rajoute un commentaire à partir de GitHub...pour vérifier dans RStudio !
